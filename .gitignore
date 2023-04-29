@@ -1,1 +1,4 @@
-result.jpg
+**.jpg
+**.png
+labels.txt
+**/__pycache__
